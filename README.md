@@ -1,2 +1,2 @@
-# xieguozhen.github.io
+# xieguozhen
 welcome to xieguozhen's website
